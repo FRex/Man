@@ -1,0 +1,10 @@
+EVILPLANWURKING! 1280
+jeden 10
+dwa 9
+trzy 8
+cztery 7
+piec 6
+szesc 5
+siedem 4
+osiem 3
+dziewiec 2
